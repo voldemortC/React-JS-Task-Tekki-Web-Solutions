@@ -139,7 +139,7 @@ class App extends React.Component {
                     <form>
                       <div className="form-group">
                         <input type = "hidden" value = {this.state.id} />
-                        <label htmlFor="firstname">First Name:</label>
+                        <label htmlFor="firstname">First Name :</label>
                         <input type="text" id="firstname" className="form-control" defaultValue = {this.state.fname} name = "fname" onChange = {this.handlesChange}/>
                       </div>
                       <div className="form-group mt-2">
