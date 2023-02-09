@@ -8,5 +8,4 @@ STEP 2: MAKE DATABASE NAMED "task" IN PHPMYADMIN (http://localhost/phpmyadmin)
 
 STEP 3: IMPORT DATABASE DUMP FILE IN PHPMYADMIN YOU WILL FIND IN task/backend/formdata.sql (inside phpmyadmin > import option > choose file formdata.sql and import it > make sure your task database have been selected)
 
-STEP 4: TO RUN THIS PROJECT GO INSIDE task DIRECTORY AND TYPE "npm start" 
-
+STEP 4: TO RUN THIS PROJECT GO INSIDE task DIRECTORY AND TYPE "npm start" or type in browser http://localhost:3000
